@@ -1,4 +1,4 @@
-package com.example.myapplication105
+package com.github.kazu_yamy.remindcell
 
 import org.junit.Test
 

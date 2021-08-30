@@ -1,11 +1,10 @@
-package com.example.myapplication105
+package com.github.kazu_yamy.remindcell
 
 import android.app.DatePickerDialog
 import android.graphics.Color
 import android.os.Build
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.text.format.DateFormat
 import androidx.annotation.RequiresApi
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.activity_week.*
@@ -13,11 +12,7 @@ import kotlinx.android.synthetic.main.activity_weekset.*
 import java.time.LocalDate
 import java.time.format.DateTimeFormatter
 import java.util.*
-import kotlin.Int.Companion as Int1
 import android.content.Intent
-
-
-
 
 
 class MainActivity : AppCompatActivity() {
