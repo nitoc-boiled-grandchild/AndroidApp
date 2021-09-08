@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">remindcell</string>
     <string name="abc">特別な持ち物の追加</string>
+    <string name="date">日付</string>
+    <string name="add">追加</string>
+    <string name="back">もどる</string>
+    <string name="tag">新規タグの登録ができます</string>
+    <string name="textview">TextView</string>
+    <string name="list">今日の持ち物</string>
+    <string name="bag">ランドセルの中</string>
+    <string name="week">曜日ごとの持ち物</string>
+    <string name="registration">タグの登録</string>
 </resources>
